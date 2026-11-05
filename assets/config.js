@@ -1,7 +1,7 @@
 // Настройки лендинга. Пока поле пустое, соответствующая кнопка скрыта или показывает «скоро».
 // Заполните после публикации — больше ничего на страницах менять не нужно.
 const STICKWELL = {
-  store: '',   // ссылка на расширение в Chrome Web Store, например https://chromewebstore.google.com/detail/stickwell/<id>
+  store: 'https://chromewebstore.google.com/detail/jokoidnmimbhkpoiekediijhpceaeakj',   // ссылка на расширение в Chrome Web Store, например https://chromewebstore.google.com/detail/stickwell/<id>
   email: 'stickwell.app@gmail.com',   // почта проекта
   issues: 'https://github.com/stickwell-app/stickwell-app.github.io/issues'   // GitHub Issues
 };
